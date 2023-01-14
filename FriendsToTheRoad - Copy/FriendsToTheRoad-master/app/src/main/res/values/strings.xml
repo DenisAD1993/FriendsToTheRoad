@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="intro">
+        <![CDATA[In this app you can see which other travelers are interested in similar trips to yours.\n
+        you can connect with them, correspond with them and manage your travel together!\n
+        \n
+        In this app, we will not allow the use of improper language and selling travel items.\n
+        \n
+        Please note that the minimum age to use the app is 18.\n
+        \n
+        The use of this app is on your own responsibility.]]></string>
+
+
+    <string-array name="tripkinds">
+
+        <item>Ski</item>
+        <item>Vacation</item>
+        <item>Hiking</item>
+        <item>Museums</item>
+        <item>Archiological Sites</item>
+        <item>Extreme Sports</item>
+        <item>Tracks</item>
+        <item>Water Sources</item>
+        <item>Events</item>
+        <item>All</item>>
+
+    </string-array>
+
+    <string-array name="areakinds">
+
+        <item>Ramat Hagolan</item>
+        <item>Gush Dan</item>
+        <item>Jerusalem and surroundings</item>
+        <item>Kineret</item>
+        <item>Beer Sheva and surroundings</item>
+        <item>South</item>
+        <item>Eilat</item>
+        <item>North</item>
+        <item>All</item>
+
+    </string-array>
+    <string name="title_activity_gallery">GalleryActivity</string>
+
+
+</resources>
